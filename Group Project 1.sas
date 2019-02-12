@@ -120,3 +120,8 @@ run;
 proc GLMSELECT data=pats2;
 model RegSeasonWins = BradyPasserRating PointsFor PointsDifferential PassTouchdowns PassInterceptions NetYardsPerPass / selection=forward(STOP=Press);
 run;
+
+
+proc reg data=pats2;
+model RegSeasonWins = PointsDifferential / clb;
+run;
