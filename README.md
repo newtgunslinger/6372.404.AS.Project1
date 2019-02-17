@@ -13,4 +13,7 @@ This Github repo contains all of the datasets we used to analyze the New England
 ##### "SAS Code for Objective #1" contains the SAS code used to answer Objective #1.
 ##### "SAS Code for Objective #2" contains the SAS code used to answer Objective #2.
 
+##### "Group 3 Nguyen Scheerer Brewer Project 1 Final Write-Up 2-16-19.docx" contains our final write-up in a doc file.
+##### "Group 3 Nguyen Scheerer Brewer Project 1 Final Write-Up 2-16-19.docx" contains our final write-up in a pdf file.
+
 ### Both of these datasets were obtained on pro-football-reference.com
